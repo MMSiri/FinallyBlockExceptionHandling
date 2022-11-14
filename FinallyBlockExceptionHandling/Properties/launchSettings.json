@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "FinallyBlockExceptionHandling": {
+      "commandName": "Project",
+      "commandLineArgs": "plop.exe"
+    }
+  }
+}
